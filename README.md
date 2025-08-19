@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Architect;AI+%7C+ML+%7C+DSA+Enthusiast;Turning+Coffee+into+Code;Building+Tomorrow's+Tech+Today" alt="Typing Intro Animation" />
 </p>
----
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
