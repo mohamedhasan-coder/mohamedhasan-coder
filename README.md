@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Mohanapriyan M <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Mohamed Hasan M <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+Spring+Boot+Warrior;DSA+%7C+AI+%7C+ML+Explorer;Building+%26+Breaking+Code;From+Zero+to+Top+MNCs" alt="Typing Intro Animation" />
