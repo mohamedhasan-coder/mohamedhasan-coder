@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Hasan M  
+<h1 align="center">Hi , I'm Mohanapriyan M <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+Spring+Boot+Warrior;DSA+%7C+AI+%7C+ML+Explorer;Building+%26+Breaking+Code;From+Zero+to+Top+MNCs" alt="Typing Intro Animation" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🙋‍♂️ About Me  
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 🌟 I'm **Mohamed Hasan**, a passionate **Full-Stack Developer** on an unstoppable journey.  
 I believe every **bug is a lesson**, every **failure a stepping stone**, and every **commit a step closer to top MNCs**.  
@@ -61,8 +61,7 @@ I believe every **bug is a lesson**, every **failure a stepping stone**, and eve
 </p>
 
 ---
-
-## 🧠 Competitive Programming  
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/mohamedhasan8403/">
@@ -106,7 +105,7 @@ I believe every **bug is a lesson**, every **failure a stepping stone**, and eve
 
 ---
 
-## 📫 Connect With Me  
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
 <p align="center">
   <a href="mailto:mohamedhasan8403@gmail.com">
@@ -116,7 +115,6 @@ I believe every **bug is a lesson**, every **failure a stepping stone**, and eve
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
