@@ -17,7 +17,7 @@ A relentless **Full-Stack Developer** forging a path from passionate learner to 
 
 > 🚀 **My Mantra:** *“Code 💻. Fail ❌. Learn 🧠. Conquer 🔥.”*
 
----
+
 
 ## 🛠️ My Skills
 
@@ -185,10 +185,6 @@ Sharpening my problem-solving skills and algorithmic thinking on the world's bes
 ## 🤝 Let's Connect!
 
 I'm always open to collaborating on exciting projects or discussing new technologies. Feel free to reach out!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kPtv3UIPrv363piokq/giphy.gif" width="200" alt="Connect with me GIF">
-</p>
 
 <p align="center">
   <a href="mailto:mohamedhasan8403@gmail.com">
