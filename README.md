@@ -85,15 +85,15 @@ I believe every **bug is a lesson**, every **failure a stepping stone**, and eve
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhasan8403&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhasan-coder&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan8403&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan-coder&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhasan8403&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhasan-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@ I believe every **bug is a lesson**, every **failure a stepping stone**, and eve
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhasan8403&theme=react-dark&hide_border=true&bg_color=0d1117&line=36BCF7&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhasan-coder&theme=react-dark&hide_border=true&bg_color=0d1117&line=36BCF7&point=FFFFFF" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -122,4 +122,3 @@ I believe every **bug is a lesson**, every **failure a stepping stone**, and eve
 
 > 💬 *“The world doesn’t give you what you want. It gives you what you **work** for.”*  
 > ✨ From **zero** to **top MNCs** — one commit at a time.  
- 
