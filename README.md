@@ -28,35 +28,35 @@ A relentless **Full-Stack Developer** forging a path from passionate learner to 
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/baD5faJ36iFwA/giphy.gif" alt="Backend Development GIF" width="150px">
+    <td align="center" width="33%" valign="top">
+      <img src="https://media.giphy.com/media/I2we6j2cx2dYk/giphy.gif" alt="Backend Development GIF" width="150px">
       <br><strong>Backend</strong><br>
       <img src="https://skillicons.dev/icons?i=java,spring,nodejs" alt="Backend Icons">
     </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/eit7014G83j2g/giphy.gif" alt="Frontend Development GIF" width="150px">
+    <td align="center" width="33%" valign="top">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Frontend Development GIF" width="150px">
       <br><strong>Frontend</strong><br>
       <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap" alt="Frontend Icons">
     </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/IorAqDrjKiDcc/giphy.gif" alt="Database GIF" width="150px">
+    <td align="center" width="33%" valign="top">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxbTBpdG1pMWY4aTNuY3c0YW1qbm5wbnVqNGV3emdwcjBwOTZ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btN4tIk2gK2uL9S/giphy.gif" alt="Database GIF" width="150px">
       <br><strong>Databases</strong><br>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Database Icons">
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Programming Languages GIF" width="150px">
+    <td align="center" width="33%" valign="top">
+      <img src="https://media.giphy.com/media/u2pmTWUi0Plcw/giphy.gif" alt="Programming Languages GIF" width="150px">
       <br><strong>Languages</strong><br>
-      <img src="https://skillicons.dev/icons?i=cpp,python,c" alt="Languages Icons">
+      <img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Languages Icons">
     </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/paTz7UZbPfAlUrT22A/giphy.gif" alt="Tools and Platforms GIF" width="150px">
+    <td align="center" width="33%" valign="top">
+      <img src="https://media.giphy.com/media/l4pT0b2FjHhP5tfxS/giphy.gif" alt="Tools and Platforms GIF" width="150px">
       <br><strong>Tools & Platforms</strong><br>
       <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,eclipse" alt="Tools Icons">
     </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="AI/ML GIF" width="150px">
+    <td align="center" width="33%" valign="top">
+      <img src="https://media.giphy.com/media/lqg2452sX5wI0/giphy.gif" alt="AI/ML GIF" width="150px">
       <br><strong>AI / ML</strong><br>
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI/ML Icons">
     </td>
