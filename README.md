@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohamed Hasan M <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm Mohamed Hasan M <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Architect;AI+%7C+ML+%7C+DSA+Enthusiast;Turning+Coffee+into+Code;Building+Tomorrow's+Tech+Today" alt="Typing Intro Animation" />
