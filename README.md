@@ -18,7 +18,7 @@ Results-driven **Full Stack Developer** with strong foundations in **Data Struct
 
 ---
 
-## 🧠 Core Competencies (FAANG Focused)
+## 🧠 Core Competencies
 
 - **Data Structures & Algorithms:** Arrays, Hashing, Recursion, Sorting, Two Pointers, Sliding Window, Trees, Graphs  
 - **Backend Engineering:** REST APIs, Middleware, Validation, Error Handling, Auth  
