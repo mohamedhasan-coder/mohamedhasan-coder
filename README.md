@@ -1,131 +1,36 @@
-<h1 align="center">Mohamed Hasan M</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Hasan</h1>
+<h3 align="center">Backend Engineer</h3>
 
-<p align="center">
-  <b>Java Full Stack Developer | Backend Engineer | DSA Enthusiast | FAANG Aspirant</b>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhasan-coder&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhasan-coder" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhasan-coder" alt="mohamedhasan-coder" /></a> </p>
+
+- 🔭 I’m currently working on [Fraud Detection](https://github.com/mohamedhasan-coder/fraud-detection-app.git)
+
+- 🌱 I’m currently learning **System Design and Data Structures and Algortihms**
+
+- 👨‍💻 All of my projects are available at [https://hasan-developer.netlify.app/](https://hasan-developer.netlify.app/)
+
+- 💬 Ask me about **Backend Engineering on Spring Boot**
+
+- 📫 How to reach me **mohamedhasan8403@gmail.com**
+
+- ⚡ Fun fact **I love to Code**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamed-hasan-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-hasan-m" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohamedhasan8403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamedhasan8403" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mohamed hasan m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mohamed hasan m" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Java+Full+Stack+Developer;Backend+Engineering+with+Spring+Boot+and+Node.js;Mastering+DSA+and+System+Design;Consistency+%E2%80%A2+Clarity+%E2%80%A2+Discipline" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhasan-coder&show_icons=true&locale=en&layout=compact" alt="mohamedhasan-coder" /></p>
 
-## 👨‍💻 About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedhasan-coder&show_icons=true&locale=en" alt="mohamedhasan-coder" /></p>
 
-**Name:** Mohamed Hasan M  
-**Role:** Java Full Stack Developer / Backend Engineer  
-**Focus:** Data Structures & Algorithms, Backend Engineering, System Design  
-**Career Goal:** Software Engineer at FAANG / Top Product-Based MNC  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhasan-coder&" alt="mohamedhasan-coder" /></p>
 
-I am a **results-driven Java Full Stack Developer** with strong foundations in **DSA, backend engineering, and database design**.  
-I enjoy building **scalable REST APIs**, designing **robust backend systems**, and writing **clean, production-ready code**.
-
-> **Engineering Philosophy:**  
-> *Consistency builds mastery. Clarity builds systems. Discipline builds engineers.*
-
----
-
-## 🧠 Core Expertise
-
-### Data Structures & Algorithms
-- Arrays and Strings  
-- Hashing and Recursion  
-- Sorting and Searching  
-- Two Pointers and Sliding Window  
-- Trees and Graphs  
-
-### Backend & Full Stack Engineering
-- REST API Design  
-- Authentication and Authorization  
-- Middleware and Validation  
-- Global Error Handling  
-- Database Modeling and Indexing  
-- Clean Architecture Principles  
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### Java Full Stack Technologies
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-## 🏆 Competitive Programming
-
-- **LeetCode:** https://leetcode.com/u/mohamedhasan8403/  
-- **HackerRank:** https://www.hackerrank.com/profile/hm0401234  
-- **GeeksforGeeks:** https://www.geeksforgeeks.org/user/mohamedhank84/  
-
----
-
-## 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhasan-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhasan-coder&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 FAANG Preparation Progress
-
-DSA           ████████████████░░░░ 80%  
-Backend       ██████████████░░░░░░ 75%  
-System Design ██████████░░░░░░░░░░ 55%  
-Consistency   █████████████████░░░ 85%  
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering – Computer Science and Engineering**  
-Aalim Muhammed Salegh College of Engineering  
-**CGPA: 8.15**  
-2023 – 2027  
-
----
-
-## 📬 Contact
-
-**Email:** mohamedhasan8403@gmail.com  
-**LinkedIn:** https://linkedin.com/in/mohamedhasan8403  
-
----
-
-<p align="center">
-  <i>"Great engineers are built by consistency, clarity, and discipline."</i>
-  <br><br>
-  <b>FAANG Track: Java Full Stack + DSA + System Design</b>
-</p>
 
