@@ -63,7 +63,6 @@
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
 
@@ -86,6 +85,11 @@
 - LeetCode: https://leetcode.com/u/mohamedhasan8403/  
 - HackerRank: https://www.hackerrank.com/profile/hm0401234  
 - GeeksforGeeks: https://www.geeksforgeeks.org/user/mohamedhank84/  
+
+---
+## Github Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedhasan-coder&border_radius=8.6)](https://git.io/streak-stats)
 
 ---
 
