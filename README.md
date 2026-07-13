@@ -6,12 +6,12 @@
 
 <br>
 
+
+</div>
+
 ---
 
 # <img src="https://img.icons8.com/color/48/source-code.png" width="30"/> About
-
-<details open>
-<summary><b>⚙️ C++</b></summary>
 
 ```cpp
 #include<iostream>
