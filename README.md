@@ -156,3 +156,360 @@ Ready to Build Something Amazing 🚀
 ```
 
 </div>
+<!-- ========================================================= -->
+<!--                  HASAN OS v1.0 - PART 2                   -->
+<!--           Interactive Terminal + Digital Identity         -->
+<!-- ========================================================= -->
+
+# <img src="https://img.icons8.com/fluency/48/console.png" width="32"/> HasanOS Terminal
+
+<div align="center">
+
+> **Interactive Developer Console**
+
+</div>
+
+```bash
+visitor@github:~$ boot hasan-os
+
+✔ Java Runtime Loaded...
+✔ Spring Boot Modules Loaded...
+✔ React Components Initialized...
+✔ AI Engine Activated...
+✔ Cloud Services Connected...
+✔ Git Repository Synchronized...
+
+----------------------------------------------------------
+
+visitor@github:~$ whoami
+
+Mohamed Hasan M
+
+----------------------------------------------------------
+
+visitor@github:~$ cat profile.txt
+
+Role      : Java Full Stack Developer
+Education : B.E. Computer Science Engineering
+Country   : India
+Focus     : Full Stack • AI • Cloud • DSA
+Language  : C++
+
+----------------------------------------------------------
+
+visitor@github:~$ pwd
+
+/home/mohamed/software-engineer
+
+----------------------------------------------------------
+
+visitor@github:~$ ls projects
+
+📂 AI Career Navigator
+📂 Neri Tech
+📂 Portfolio Website
+📂 PixelQuest Game
+📂 Smart Expense Tracker
+
+----------------------------------------------------------
+
+visitor@github:~$ echo $MISSION
+
+Build software that improves people's lives.
+
+----------------------------------------------------------
+
+visitor@github:~$ git commit -m "Keep Learning"
+
+[main] ✔ Commit Successful
+
+----------------------------------------------------------
+
+visitor@github:~$ exit
+
+Thanks for visiting 👋
+```
+
+---
+
+# <img src="https://img.icons8.com/color/48/source-code.png" width="30"/> About Me in Different Programming Languages
+
+<details open>
+<summary><b>☕ Java</b></summary>
+
+```java
+public class MohamedHasan {
+
+    private final String name = "Mohamed Hasan M";
+
+    private final String role = "Java Full Stack Developer";
+
+    private final String college =
+        "Aalim Muhammed Salegh College of Engineering";
+
+    private final String focus =
+        "AI | Full Stack | Cloud | DSA";
+
+    private final String goal =
+        "Build products that impact millions.";
+
+    public void dailyRoutine(){
+
+        while(alive){
+
+            learn();
+
+            buildProjects();
+
+            solveDSA();
+
+            improve();
+
+        }
+
+    }
+
+}
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>🐍 Python</b></summary>
+
+```python
+class MohamedHasan:
+
+    def __init__(self):
+
+        self.role = "Java Full Stack Developer"
+
+        self.country = "India"
+
+        self.favorite_language = "C++"
+
+        self.current_focus = [
+
+            "AI",
+
+            "DSA",
+
+            "Spring Boot",
+
+            "React"
+
+        ]
+
+    def life(self):
+
+        while True:
+
+            self.learn()
+
+            self.code()
+
+            self.build()
+
+            self.repeat()
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>⚙️ C++</b></summary>
+
+```cpp
+#include<iostream>
+#include<vector>
+
+using namespace std;
+
+class Developer{
+
+public:
+
+    string name = "Mohamed Hasan M";
+
+    string role = "Java Full Stack Developer";
+
+    vector<string> skills = {
+
+        "Java",
+
+        "Spring Boot",
+
+        "React",
+
+        "Docker",
+
+        "Git",
+
+        "C++"
+
+    };
+
+    void future(){
+
+        cout<<"Never Stop Learning";
+
+    }
+
+};
+
+int main(){
+
+    Developer hasan;
+
+}
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 JavaScript</b></summary>
+
+```javascript
+const hasan = {
+
+    name: "Mohamed Hasan M",
+
+    role: "Java Full Stack Developer",
+
+    country: "India",
+
+    learning: [
+
+        "Artificial Intelligence",
+
+        "Data Structures",
+
+        "Cloud",
+
+        "System Design"
+
+    ],
+
+    hobbies: [
+
+        "Coding",
+
+        "Building",
+
+        "Learning"
+
+    ],
+
+    mission(){
+
+        return "Code. Learn. Build. Repeat.";
+
+    }
+
+}
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>🗄️ SQL</b></summary>
+
+```sql
+SELECT
+    Name,
+    Role,
+    Skills,
+    Goal
+FROM Developer
+WHERE Name = 'Mohamed Hasan M';
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>📦 JSON</b></summary>
+
+```json
+{
+  "name":"Mohamed Hasan M",
+  "role":"Java Full Stack Developer",
+  "country":"India",
+  "favoriteLanguage":"C++",
+  "currentlyLearning":[
+    "AI",
+    "DSA",
+    "Spring Boot",
+    "React"
+  ],
+  "status":"Always Learning"
+}
+```
+
+</details>
+
+---
+
+# <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="30"/> Digital DNA
+
+```yaml
+Developer:
+  Name: Mohamed Hasan M
+
+  Role: Java Full Stack Developer
+
+  Passion:
+    - Software Engineering
+    - Artificial Intelligence
+    - Cloud Computing
+    - Open Source
+
+  Daily Goals:
+    - Learn something new
+    - Build useful software
+    - Solve DSA problems
+    - Share knowledge
+
+  Motto:
+    "Small improvements every day create remarkable results."
+```
+
+---
+
+<div align="center">
+
+## 🚀 Current Status
+
+| 🟢 System | Status |
+|-----------|--------|
+| Java | ████████████ 100% Learning |
+| Spring Boot | █████████░░ |
+| React | █████████░░ |
+| AI | ███████░░░░ |
+| DSA | ████████░░░ |
+| Cloud | ██████░░░░░ |
+
+</div>
+
+---
+
+<!--
+🥚 Easter Egg #1
+
+If you're reading the source code...
+
+Thanks for being curious.
+
+Keep Building.
+Never Stop Learning.
+
+- Mohamed Hasan
+-->
