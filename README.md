@@ -1019,3 +1019,223 @@ They're the ones who never stop learning.
 🚀
 
 -->
+<!-- ========================================================= -->
+<!--                  HASAN OS v1.0 - PART 5                   -->
+<!--              Mission Control • Featured Projects          -->
+<!-- ========================================================= -->
+
+# <img src="https://img.icons8.com/fluency/48/rocket.png" width="32"/> Mission Control
+
+<div align="center">
+
+> **"Projects are where ideas become reality."**
+
+</div>
+
+---
+
+## 🤖 AI Career Navigator
+
+> **AI-powered career guidance platform for students**
+
+| Property | Details |
+|-----------|---------|
+| 🚀 Status | 🟢 Active |
+| 💻 Stack | React • Spring Boot • AI APIs • PostgreSQL |
+| 🎯 Goal | Help students discover personalized career paths using AI |
+| Learning | AI Integration • Backend APIs • UI/UX |
+
+**Highlights**
+
+- 🤖 Personalized career recommendations
+- 📈 Skill-gap analysis
+- 🎓 Learning roadmap generation
+- 💬 AI-assisted guidance
+- 📱 Responsive user interface
+
+---
+
+## 🌐 Neri Tech
+
+> **Modern software consultancy website**
+
+| Property | Details |
+|-----------|---------|
+| 🚀 Status | 🟡 In Progress |
+| 💻 Stack | React • Tailwind CSS • Node.js |
+| 🎯 Goal | Build a premium digital presence for a technology consultancy |
+
+### Features
+
+- ✨ Modern landing page
+- 📱 Responsive UI
+- ⚡ Smooth animations
+- 📄 Service showcase
+- 📞 Contact section
+- 📰 Blog support
+- 💼 Professional branding
+
+---
+
+## 🌍 Personal Portfolio
+
+> **My digital portfolio**
+
+| Property | Details |
+|-----------|---------|
+| 🌐 Live | https://hasan-developer.netlify.app/ |
+| 🚀 Status | 🟢 Live |
+| 💻 Stack | React • JavaScript • CSS |
+
+### Highlights
+
+- 👨‍💻 About Me
+- 💼 Projects
+- 🛠 Skills
+- 📱 Responsive Design
+- 📬 Contact Information
+
+---
+
+## 🧾 Invoice Management System
+
+> **Full Stack Web Application**
+
+| Property | Details |
+|-----------|---------|
+| 🚀 Status | 🟡 Development |
+| 💻 Stack | React • Spring Boot • MySQL |
+
+### Planned Features
+
+- 🧾 Invoice Generation
+- 👤 Customer Management
+- 📊 Sales Dashboard
+- 📈 Reports
+- 📥 PDF Export
+
+---
+
+## 🎮 JavaScript Game
+
+> **Learning Project**
+
+| Property | Details |
+|-----------|---------|
+| 🚀 Status | 🟡 Building |
+| 💻 Stack | HTML • CSS • JavaScript |
+
+### Goals
+
+- 🎯 Improve JavaScript fundamentals
+- 🎨 Better UI interactions
+- 🧠 Practice game logic
+- 🎮 Build reusable components
+
+---
+
+# 🚀 Project Roadmap
+
+```text
+💡 Idea
+   │
+   ▼
+📋 Planning
+   │
+   ▼
+🎨 UI Design
+   │
+   ▼
+💻 Development
+   │
+   ▼
+🧪 Testing
+   │
+   ▼
+🚀 Deployment
+   │
+   ▼
+📈 Continuous Improvement
+```
+
+---
+
+# 🏗 Development Principles
+
+<div align="center">
+
+| Principle | Meaning |
+|-----------|---------|
+| 🧩 Clean Code | Readable and maintainable solutions |
+| 📱 Responsive | Works across devices |
+| ⚡ Performance | Fast and optimized experiences |
+| 🔒 Security | Follow secure development practices |
+| 🧪 Testing | Verify before deployment |
+| 📚 Continuous Learning | Improve every project |
+
+</div>
+
+---
+
+# 📌 Current Focus Projects
+
+```text
+[██████████] AI Career Navigator
+
+[████████░░] Neri Tech
+
+[███████░░░] Invoice Management System
+
+[██████░░░░] JavaScript Game
+
+[██████████] Portfolio Website
+```
+
+---
+
+# 💡 Ideas I'm Exploring
+
+- 🤖 AI-powered developer tools
+- ☁ Cloud-native applications
+- 📊 Analytics dashboards
+- 🧠 Intelligent automation
+- 🌐 Full Stack SaaS products
+- 📱 Progressive Web Applications (PWA)
+
+---
+
+<div align="center">
+
+## 🚀 Build • Learn • Improve • Repeat
+
+```text
+while(success != true){
+
+    Learn();
+
+    Build();
+
+    Fail();
+
+    Improve();
+
+}
+```
+
+</div>
+
+---
+
+<!--
+
+🥚 Easter Egg #4
+
+Projects are never really finished.
+
+They simply reach better versions.
+
+Version 1 → Version 2 → Version 3...
+
+Keep shipping. 🚀
+
+-->
