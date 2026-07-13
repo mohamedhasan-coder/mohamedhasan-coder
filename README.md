@@ -1544,3 +1544,193 @@ Keep learning.
 Keep growing.
 
 -->
+<!-- ========================================================= -->
+<!--                  HASAN OS v1.0 - PART 7                   -->
+<!--        Communication Hub • Spotify • Fun Zone            -->
+<!-- ========================================================= -->
+
+# <img src="https://img.icons8.com/fluency/48/radio.png" width="32"/> Communication Hub
+
+<div align="center">
+
+### Let's Connect 🤝
+
+<a href="mailto:mohamedhasan8403@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-hasan-m-325051362/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://hasan-developer.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/mohamedhasan-coder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/mohamedhasan8403/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/mohamedhasan">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+</div>
+
+---
+
+# 🎵 Currently Listening
+
+<div align="center">
+
+> **Spotify Integration**
+
+<!--
+Replace USERNAME with your Spotify GitHub profile username
+after you set it up.
+-->
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+
+</div>
+
+---
+
+# ☕ Developer Fuel
+
+<div align="center">
+
+| Resource | Level |
+|-----------|--------|
+| ☕ Coffee | ████████░░ |
+| 💻 Coding | ██████████ |
+| 🚀 Motivation | ██████████ |
+| 🧠 Curiosity | ██████████ |
+| 📚 Learning | ██████████ |
+
+</div>
+
+---
+
+# 😂 Developer Joke
+
+<div align="center">
+
+> **Why do programmers prefer dark mode?**
+
+Because...
+
+**Light attracts bugs. 🐛**
+
+</div>
+
+---
+
+# 💭 Quote of the Day
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**
+
+**— John Johnson**
+
+</div>
+
+---
+
+# 🎯 Fun Facts
+
+- 💻 I enjoy building full stack applications.
+- 🧠 I love learning AI and modern technologies.
+- 🚀 I believe consistency beats motivation.
+- 📚 Every project teaches something new.
+- ☕ Debugging is part of the journey.
+- 🌍 My goal is to build software that helps people.
+
+---
+
+# 📡 Current Status
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🟢 ONLINE
+
+💻 Building Projects
+
+📚 Learning AI
+
+🧩 Solving DSA
+
+🚀 Shipping Better Code
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 📈 Weekly Goals
+
+```text
+☑ Learn something new
+
+☑ Solve DSA Problems
+
+☑ Build Features
+
+☑ Read Documentation
+
+☑ Improve Existing Projects
+
+☑ Commit Code
+
+☑ Help Others
+```
+
+---
+
+# ❤️ Support My Journey
+
+If you like my work,
+
+⭐ Star my repositories
+
+🍴 Fork projects
+
+🤝 Connect with me
+
+💬 Share feedback
+
+Every contribution and suggestion helps me grow.
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for visiting my profile.
+
+**Happy Coding!**
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat;Never+Stop+Learning;Thanks+for+Visiting+My+Profile!"/>
+
+</div>
+
+---
+
+<!--
+
+🥚 Easter Egg #6
+
+Congratulations!
+
+You've discovered another hidden message.
+
+The best developers never stop learning.
+
+Keep building amazing things.
+
+-->
